@@ -1,0 +1,9 @@
+C:\Users\tu7gbzmx6\source\repos\ConsoleApp8\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+C:\Users\tu7gbzmx6\source\repos\ConsoleApp8\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\tu7gbzmx6\source\repos\ConsoleApp8\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\tu7gbzmx6\source\repos\ConsoleApp8\Utils\obj\Debug\netcoreapp3.1\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7gbzmx6\source\repos\ConsoleApp8\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+C:\Users\tu7gbzmx6\source\repos\ConsoleApp8\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+C:\Users\tu7gbzmx6\source\repos\ConsoleApp8\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.CoreCompileInputs.cache
+C:\Users\tu7gbzmx6\source\repos\ConsoleApp8\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+C:\Users\tu7gbzmx6\source\repos\ConsoleApp8\Utils\obj\Debug\netcoreapp3.1\Utils.pdb

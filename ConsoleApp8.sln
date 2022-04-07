@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp8", "ConsoleApp8\ConsoleApp8.csproj", "{F1C10212-329F-4C9A-A7FC-8C4309940100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{B38746AE-4C45-49B0-811F-934F9AB3FFA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{15A68E33-7476-456A-A74A-6EDF3206869B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C10212-329F-4C9A-A7FC-8C4309940100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C10212-329F-4C9A-A7FC-8C4309940100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C10212-329F-4C9A-A7FC-8C4309940100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C10212-329F-4C9A-A7FC-8C4309940100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38746AE-4C45-49B0-811F-934F9AB3FFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38746AE-4C45-49B0-811F-934F9AB3FFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38746AE-4C45-49B0-811F-934F9AB3FFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38746AE-4C45-49B0-811F-934F9AB3FFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15A68E33-7476-456A-A74A-6EDF3206869B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A68E33-7476-456A-A74A-6EDF3206869B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A68E33-7476-456A-A74A-6EDF3206869B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A68E33-7476-456A-A74A-6EDF3206869B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AA60F99-1E28-4509-A81C-FED1BB0303ED}
+	EndGlobalSection
+EndGlobal
